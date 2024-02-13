@@ -929,5 +929,5 @@
         }
     },
     "description": "This example showcases the use of SystemMessage and HumanMessage components to build a ChatPromptTemplate. A WebBaseLoader is used to pass a random word to a SystemMessage variable.",
-    "name": "SystemMessage Example (1)"
+    "name": "SystemMessage Example"
 }
